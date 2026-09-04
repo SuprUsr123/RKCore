@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+obj/
+
+# Runtime artifacts
+.rk-session
+rk-debug.log
+
+# IDE / OS junk
+*.user
+*.suo
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+cache.json
